@@ -13,7 +13,7 @@ git add
 ```
 git commit -m "Massage"
 git checkout 
-git checkout master
+git checkout <имя ветки>
 git log
 git log --oneline
 ```
