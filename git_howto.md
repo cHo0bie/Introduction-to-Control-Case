@@ -21,3 +21,8 @@ git log --oneline
 ```sh
 git branch
 ```
+
+Создание новой ветки 
+```
+git branch <имя ветки>
+```
