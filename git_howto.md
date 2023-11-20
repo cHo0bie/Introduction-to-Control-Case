@@ -11,7 +11,7 @@ git add
 Комманды терминала
 
 ```
-git commit -m "Massage"
+git commit -m "Massage text"
 git checkout <имя ветки>
 git log
 git log --oneline
