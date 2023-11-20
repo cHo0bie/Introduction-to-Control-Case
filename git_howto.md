@@ -12,7 +12,7 @@ git add
 
 ```
 git commit -m "Massage"
-git checkout <имя ветки>
+git checkout <branch name>
 git checkout master
 git log
 git log --oneline
@@ -22,4 +22,3 @@ git log --oneline
 ```sh
 git branch
 ```
-
