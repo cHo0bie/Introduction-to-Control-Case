@@ -29,3 +29,5 @@
 Текст [пример ссылки](https://www.youtube.com/watch?v=StEetbqHW8Y&t=48s "Всплывающая подсказка")
 
 # Добавим как добовлять картинки в Markdown
+Это мадара
+![Madara](madara.jpg)
